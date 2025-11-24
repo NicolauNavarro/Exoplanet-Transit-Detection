@@ -1,4 +1,4 @@
-````markdown
+
 # Exoplanet Transit Detection
 
 Este proyecto permite descargar, limpiar y analizar curvas de luz de estrellas de la misión **Kepler**, detectando exoplanetas mediante el método de tránsitos usando el **Box Least Squares (BLS)**.
@@ -38,7 +38,6 @@ Instalación rápida de dependencias:
 ```bash
 pip install lightkurve astropy numpy pandas matplotlib
 ```
-````
 
 > Nota: Lightkurve puede mostrar advertencias sobre submódulos opcionales (como `tpfmodel`). No afectan la ejecución principal del proyecto.
 
