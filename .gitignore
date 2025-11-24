@@ -1,0 +1,7 @@
+# Ignorar CSV y PNG generados
+# data/*.csv
+# output/*.png
+# *.log
+
+notebooks/run.py
+notebooks/analisis.ipynb
