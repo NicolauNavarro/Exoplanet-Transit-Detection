@@ -9,8 +9,8 @@ from IPython.display import display, Markdown
 
 # %%
 # Configuración
-estrella = "Kepler-22"
-reinstalar = True  # si es False, no se volverá a descargar ni limpiar datos si existen
+estrella = "Kepler-15"
+reinstalar = False  # si es False, no se volverá a descargar ni limpiar datos si existen
 
 # Directorios de salida
 data_dir = "../data"
